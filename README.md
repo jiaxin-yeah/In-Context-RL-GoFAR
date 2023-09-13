@@ -1,6 +1,6 @@
 # In-Context-RL-GoFAR
 ### Step 1
-Generate the bandit dataset per the instructions on the Supervised Pretraining paper.
+Generate the bandit dataset (`generate_B()`) per the instructions on the Supervised Pretraining paper.
 ### Step 2
 Train the value network and policy network per Algorithm 2 of the GoFAR paper.
 ### Step 3
